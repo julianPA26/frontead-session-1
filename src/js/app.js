@@ -1,4 +1,4 @@
-console.log("Acceíi al JS");
+console.log("Accedi al JS");
 function saludoFuncion(){
     console.log("Hola desde la funcion");
 }
