@@ -1,0 +1,58 @@
+body{
+    margin: 10px;
+}
+
+.menu{
+    background-color: #86f1e0;
+}
+
+.container{
+    padding: 20px;
+}
+
+.card{
+    /* Estilos div */
+    background-color: #a7a7a7;
+    width: 300px;
+    border-radius: 10px;
+    
+    /* Estilos texto */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #161616;
+
+}
+
+.card img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;/* Para que la imagen no se estire */
+    
+
+}
+.text-card{
+    padding: 20px;
+}
+.text-card p{
+    font-size: 14px;
+}
+.text-card{
+    padding-left: 10px;
+}
+
+.button-card{
+    padding: 10px 20px;
+
+}
+.button-card button{
+    border-radius: 15px;
+    background-color: rgb(0, 55, 80);
+    color: aliceblue;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.button-card button:hover{
+    background-color: rgb(0, 8, 8);
+    color:rgb(255, 0, 0); 
+
+}
